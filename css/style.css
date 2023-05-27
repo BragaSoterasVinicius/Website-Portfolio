@@ -1,15 +1,16 @@
 .head{
-    position: relative;
-    left: 30px;
+    position:fixed;
+    right: 20px;
+    bottom: 0px;
     width: fit-content;
-    top: 20px;
     font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color:white;
 }
 
 body{
-    background-image: linear-gradient(rgb(38, 230, 198),black);
-
+    background-image: linear-gradient(rgb(41, 253, 218),black);
 }
+
 .intro{
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     position: fixed;
@@ -50,10 +51,15 @@ body{
 }
 
 .links{
-    height: 50px;
-    width: 50px;
+    height: 100px;
+    width: 100px;
 }
 
+.links:hover{
+    height: 120px;
+    width: 120px;
+    transition: all 0.2s;
+}
 .bod{
     /*background-image:url(../imgs/pattern.png);*/
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
