@@ -10,7 +10,13 @@
 body{
     font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     color:black;
-    background-image: linear-gradient(rgb(41, 253, 218),black);
+    background-image: linear-gradient(rgb(41, 253, 218),rgb(6, 14, 61));
+}
+
+.title{
+    margin-top: 30px;
+    margin-left: 30px;
+    font-size: 70px;
 }
 
 .intro{
@@ -64,16 +70,16 @@ body{
 }
 
 .lateralBox{
-    font-size: 30px;
+    font-size: 60px;
     margin-top: -30px;
-    margin-left: 40px;
+    margin-left: 60px;
     position: absolute;
     height: 500px;
 }
 .boxes:hover{
-    color: chartreuse;
-    font-size: 80px;
-    transition: all 0.2s;
+    color: white;
+    font-size: 120px;
+    transition: all 0.5s;
 }
 
 #footer {
