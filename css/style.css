@@ -86,8 +86,8 @@ body{
     font-size: 120px;
     transition: all 0.5s;
 }
-a { color: inherit; } 
 
+a { color: inherit; } 
 
 #footer {
     position: fixed;
@@ -95,7 +95,8 @@ a { color: inherit; }
     bottom: 0;
     height: 40px;
     width: 100%;
-    background-color: black;
+    background-color: rgba(5, 1, 24, 0.829);
     color: white;
-    border-radius: 20px;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
   }

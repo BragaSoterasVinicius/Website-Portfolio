@@ -1,0 +1,40 @@
+#news{
+    background-color: rgba(150, 150, 177, 0.781);
+    align-self: center;
+    margin-left: 30%;
+    margin-right: 30%;
+    border-radius: 15px;
+    text-align: center;
+}
+
+button{
+    background-color: transparent;
+    border-color: transparent;
+}
+
+
+#but{
+    margin-left: 30px;
+    height: 60px;
+    width: 60px;
+}
+
+#but:hover{
+    transform:rotate(-180deg);
+    transition: all 0.5s;
+}
+
+.textBloc{
+    background-color: rgba(7, 18, 44, 0.829);
+    margin-top: 20px;
+    color: aliceblue;
+    border-radius: 20px;
+}
+
+.info{
+}
+
+.titl{
+    margin-left: 30px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
