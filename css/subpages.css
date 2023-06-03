@@ -1,10 +1,11 @@
 #news{
-    background-color: rgba(150, 150, 177, 0.781);
-    align-self: center;
     margin-left: 30%;
     margin-right: 30%;
     border-radius: 15px;
-    text-align: center;
+    text-align: left;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: aliceblue;
+    font-size: 40px;
 }
 
 button{
@@ -25,13 +26,10 @@ button{
 }
 
 .textBloc{
-    background-color: rgba(7, 18, 44, 0.829);
     margin-top: 20px;
     color: aliceblue;
-    border-radius: 20px;
-}
-
-.info{
+    font-size: 40px;
+    width: 100%;
 }
 
 .titl{
