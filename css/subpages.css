@@ -37,3 +37,10 @@ button{
     margin-left: 30px;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
+
+#pictr{
+    margin-left: 30px; 
+    top: 30px; 
+    position: relative; 
+    border-radius: 50%;
+}

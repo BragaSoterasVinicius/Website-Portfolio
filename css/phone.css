@@ -1,0 +1,43 @@
+
+.lateralBox{
+    font-size: 30px;
+    margin-top:30px;
+    margin-left: 20px;
+    position: absolute;
+    height: 500px;
+}
+#Ah4{
+    margin-left: 10px;
+    font-size: 035px;
+    margin-bottom: -40px;
+}
+#Ah1{
+    margin-left: 10px;
+    font-size: 90px;
+    margin-bottom: 0px;
+}
+
+.textBloc{
+
+    margin-top: 30px;
+    color: aliceblue;
+    font-size: 20px;
+    width: 100%;
+}
+
+#pictr{
+    margin-left: 30px; 
+    top: 30px; 
+    position: relative; 
+    border-radius: 50%;
+    width: 230px;
+    height: 230px;
+}
+
+#test{
+    width: 100%; margin-left: 0%;
+}
+
+.title{
+    font-size: 50px;
+}

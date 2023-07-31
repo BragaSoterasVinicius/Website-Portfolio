@@ -1,4 +1,11 @@
-
+#Ah4{
+    font-size: 50px;
+    margin-bottom: -140px;
+}
+#Ah1{
+    font-size: 170px; 
+    margin-bottom: -10px;
+}
 .head{
     position:fixed;
     right: 20px;
@@ -98,7 +105,9 @@ body{
 }
 
 a { color: inherit; } 
-
+#test{
+    width: 50%; margin-left: 10%;
+}
 #footer {
     position: fixed;
     left: 0;
