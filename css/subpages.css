@@ -38,6 +38,10 @@ button{
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 
+#tituluzinho{
+    font-size: 20px;
+    margin-bottom: -7px;
+}
 #pictr{
     margin-left: 30px; 
     top: 30px; 
